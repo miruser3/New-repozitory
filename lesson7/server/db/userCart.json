@@ -6,13 +6,13 @@
             "id_product": 123,
             "product_name": "Ноутбук",
             "price": 45600,
-            "quantity": 23
+            "quantity": 32
         },
         {
             "id_product": 456,
             "product_name": "Мышка",
             "price": 1000,
-            "quantity": 17
+            "quantity": 33
         },
         {
             "quantity": 40,
@@ -21,7 +21,7 @@
             "price": 3000
         },
         {
-            "quantity": 29,
+            "quantity": 34,
             "id_product": 124,
             "product_name": "Keyboard",
             "price": 1600
@@ -64,6 +64,34 @@
             "product_name": "Ноутбук",
             "price": 45600,
             "imgPath": "img1/123.jpg"
+        },
+        {
+            "quantity": 1,
+            "id_product": 456,
+            "product_name": "Мышка",
+            "price": 1000,
+            "imgPath": "img1/456.jpg"
+        },
+        {
+            "quantity": 1,
+            "id_product": 456,
+            "product_name": "Мышка",
+            "price": 1000,
+            "imgPath": "img1/456.jpg"
+        },
+        {
+            "quantity": 1,
+            "id_product": 456,
+            "product_name": "Мышка",
+            "price": 1000,
+            "imgPath": "img1/456.jpg"
+        },
+        {
+            "quantity": 1,
+            "id_product": 124,
+            "product_name": "Keyboard",
+            "price": 1600,
+            "imgPath": "img1/124.jpg"
         }
     ]
 }
